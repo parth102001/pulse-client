@@ -115,7 +115,7 @@ const Profile = () => {
               id="work"
             />
           </div>
-          <div
+          {/* <div
             style={{
               display: "flex",
               alignItems: "center",
@@ -127,7 +127,7 @@ const Profile = () => {
               onClick={fetchTask}
               variant="contained"
               color="success"
-              style={`{ textTransform: "capitalize"}`}
+              style={{ textTransform: "capitalize" }}
             >
               update
             </Button>
@@ -147,7 +147,7 @@ const Profile = () => {
                 Cancel
               </Button>
             </div>
-          </div>
+          </div> */}
         </form>
       </div>
     </>
