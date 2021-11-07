@@ -1,0 +1,19 @@
+.footer {
+  margin-top: 5%;
+  background: linear-gradient(
+      279.06deg,
+      rgb(17, 97, 73) 0%,
+      rgb(33, 49, 60) 99.99%,
+      rgb(33, 46, 55) 100%
+    )
+    0% 0% / cover;
+  color: white;
+  height: 106px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer p {
+  font-size: 1.2rem;
+}
